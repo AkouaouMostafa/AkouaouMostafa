@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkouaouMostafa
-- 👀 I’m interested in Develovement app web and mobile
+- 👀 I’m interested in Developpement app web and mobile
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
