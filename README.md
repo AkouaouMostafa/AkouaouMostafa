@@ -36,7 +36,7 @@
 💼 **Portfolio:** [YourWebsite.com](https://yourwebsite.com) *(if available)*  
 📧 **Email:** your.email@example.com  
 🐦 **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+🔗 **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/mostafa-akouaou-b10514279)  
 
 ---
 
