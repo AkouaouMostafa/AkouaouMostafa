@@ -33,9 +33,9 @@
 ---
 
 ## 🌍 **Let's Connect!**  
-💼 **Portfolio:** [YourWebsite.com](https://yourwebsite.com) *(if available)*  
-📧 **Email:** your.email@example.com  
-🐦 **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)  
+💼 **Portfolio:** [Website.com](https://website.com) *(not available)*  
+📧 **Email:** akwaou.mostafa@example.com  
+🐦 **Twitter/X:** [@](https://twitter.com/)  
 🔗 **LinkedIn:** [linkedin.com/in/mostafa-akouaou-b10514279](www.linkedin.com/in/mostafa-akouaou-b10514279)  
 
 ---
